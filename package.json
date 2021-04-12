@@ -1,0 +1,24 @@
+{
+  "name": "projeto-app-pickapet",
+  "version": "1.0.0",
+  "description": "Projeto para faculdade sem fins lucrativos, de um aplicativo desktop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorgj/projeto-app-pickapet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorgj/projeto-app-pickapet/issues"
+  },
+  "homepage": "https://github.com/vitorgj/projeto-app-pickapet#readme",
+  "dependencies": {
+    "electron": "^12.0.2"
+  }
+}
